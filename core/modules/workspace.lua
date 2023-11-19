@@ -17,8 +17,7 @@ function Workspace:create (name)
     table.insert(self.workspaces, {
         name = name,
     });
-
-
+    
     return self;
 end
 

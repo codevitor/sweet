@@ -1,5 +1,4 @@
 # sweet
 
-still under development.
-<br>
-Proudly co-authored by: **Vitor "Flashii"**, Designated and Co-Autored by: **Vinicius "konima"**
+Proudly coded by: **Vitor "Flashii"** <br>
+Designated and Co-Autored by: **Vinicius "konima"**

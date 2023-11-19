@@ -1,0 +1,6 @@
+<meta>
+    <info author="flashii" version="1.0" name="sweet" description="Sweet Gui ;)" />
+
+    <!-- deps & utils -->
+    <script src="deps/dp_class.lua" type="shared" cache="true" />
+</meta>

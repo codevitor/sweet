@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v1
       - name: Lint mta resources
         run: |
-          luacheck --exclude-files 'deps/dp_class.lua' ./
+          luacheck --exclude-files '**/dp_class.lua' ./

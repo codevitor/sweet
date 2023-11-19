@@ -2,5 +2,21 @@
     <info author="flashii" version="1.0" name="sweet" description="Sweet Gui ;)" />
 
     <!-- deps & utils -->
-    <script src="deps/dp_class.lua" type="shared" cache="true" />
+    <script src="deps/dp_class.lua" type="shared" />
+
+    <!-- tags -->
+    <script src="core/tags/index.lua" type="client" />
+    <script src="core/tags/div.lua" type="client" />
+
+    <!-- modules -->
+    <script src="core/modules/index.lua" type="client" />
+    <script src="core/modules/router.lua" type="client" />
+    <script src="core/modules/component.lua" type="client" />
+    <script src="core/modules/workspace.lua" type="client" />
+
+    <!-- Core -->
+    <script src="core/core.lua" type="client"/>
+
+    <!-- entryfiles -->
+    <script src="index.lua" type="client" />
 </meta>

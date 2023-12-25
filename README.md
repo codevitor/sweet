@@ -1,4 +1,2 @@
 # sweet
-
-Proudly coded by: **Vitor "Flashii"** <br>
-Designated and Co-Autored by: **Vinicius "konima"**
+this is not being maintained in enhancement at this time.
